@@ -15,7 +15,4 @@ public class AutoPolicyTest
         System.out.printf("Account #:%d;%nCar: %s,%nState %s %s a no-fault state%n%n", policy.getAccountNumber(),policy.getMakeAndModel(),policy.getState(),(policy.isNoFaultState() ? "is": "is not"));
     }
 }
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
+
